@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.codingisloving.plainnote.app.MainActivity" >
+
+    <item android:id="@+id/action_create"
+        android:title="@string/action_create"
+        android:orderInCategory="100"
+        app:showAsAction="always|withText"
+        android:icon="@drawable/create_note"/>
+    <!--if u have space, show text, if dont, dont show-->
+</menu>

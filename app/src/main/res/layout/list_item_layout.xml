@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center_vertical"
+    android:padding="5dp"
+    android:singleLine="true"
+    android:textSize="20sp"
+    android:ellipsize="end"
+    android:drawableRight="@drawable/ic_listitem_edit">
+    <!-- android:singleLine="true" -> even if more than 1 line, ,just show 1 line-->
+    <!-- android:ellipsize="end" -> shows ... @ the end -->
+    <!--android:drawableRight -> the icon is always @ the far right side of the text view no matter how long the text is-->
+</TextView>
