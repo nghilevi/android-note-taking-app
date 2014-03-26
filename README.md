@@ -10,4 +10,4 @@ Screenshot
 
 Installation
 -------
-Download the apk file here at https://raw.githubusercontent.com/vinhnghi223/Note-Taking-App-For-Android/blob/master/SimpleNoteForAndroid.apk
+Download the apk file here at https://github.com/vinhnghi223/Note-Taking-App-For-Android/blob/master/SimpleNoteForAndroid.apk (click on Raw)
